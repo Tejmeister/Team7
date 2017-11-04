@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\01f346bfafa30d2e3f1c7a23bd329d635b9db183\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c3344df6714e59b06aee22036fce832f181d634\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\d4caee14282f57c16d2a0729b6578aa882b79a24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b68328d514f6a9e82d8b89735001f26730584039\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\a81c44999d58cee10676e1bda49d1dd637f9a01d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_933fecf6f9caeefe958be824b6c858eb530e3989\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CODEIT\TEMP\Team_7\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8cc46a3f3def2e1414062d4d21c990f003c3c6f5">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4d9931e5d2955e2977c75fb6a1bd1392d37c7eb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\381f05d6d71bac2a0c7af69018a2bab5dac23d08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_adfe24f9b8085eec3d52d6cf8b32c94d62987aa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\b4b25a5c8b6d0be7d6f7dbe027482f08bd1e49be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb1f91b98886f8590ea6d53f16290cc16985c6ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.2_9a251ef053879a6b1370fda1e852a19080b87104\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\9b306e075a81c510dfa700d472303d8742b94f8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ece821646143c6bc70308034da6a0c77961244b">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91a0cdc1dc2a97777df4e19b2dbba51b24877a8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\650c3575013f7b232b15a7a647363294ffb1c959\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bee9a3ffb7aab5296378087d64beadbaf2a2433d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\686c502c71b5ac8b684242a210e20556eba845b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_066e59aa1369389510181298deabafff112f95ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\3f234e995783e2813f60b57bcdf31cd33560b138\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_644c0a806c23fbeb5066f3fc47545ec505a45216\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\b549be9e33239b518303817cce66d6881cb9ad26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_163b02c767f449c20e36029bc22350400dd24e5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\ai.api\libai\1.6.12\53a80cbffa8e20d3a43b5e494bdecb396672d631\libai-1.6.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53a80cbffa8e20d3a43b5e494bdecb396672d631">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\libai-1.6.12_397381e63248d37617dbea59e96042df8404cab2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.25\da76ca59f6a57ee3102f8f9bd9cee742973efa8a\slf4j-api-1.7.25.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da76ca59f6a57ee3102f8f9bd9cee742973efa8a">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-api-1.7.25_770f0d8c506e62c32636ba79274616d745379f48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CODEIT\TEMP\Team_7\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b2089a27eb1ac44785a1c972e50e70563e42f7de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\90f725dcece5cca7e4f5ec8d181863d06ada2d35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfa8149591d63f674848ff94ae0a8d0c768651f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\55fc50731c98eddf7fb8aab0c0e458841aba7347\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ecd27fcbdec07370c33dae1a5b8f28932594aa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\20030203.000550\506fc1d8e200a9e664d8befb991d407ae551d7fe\commons-io-20030203.000550.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="506fc1d8e200a9e664d8befb991d407ae551d7fe">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-20030203.000550_51de948a1ac6a4c78463b2c36aa0e71d4cc47d13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\4a21b033489a16c4327d570cfab844bbc773c3c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b924e04dd358a531b22ecae76cfe5e758e9d2064\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\98f9fd855c7cdb711943f8b62a3df76a3904a69a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f11b6674d238bef48d877b5bc6fd2fa1165e11e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\bf2d3a270cb7115dec41ef93022cc78ed848b34a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50f85adccc238f2230c8ab93f861f7e97653e423\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_d277b57a9d3c7737f6a1168037530d6125aaf83e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\9b2b55d87773f5ab9c50463b2ead7871bdc22869\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\CODEIT\TEMP\Team_7\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a71ef500b9f0b66da842433a24a48204209768a\classes.dex" />
+    </item>
+
+</items>
